@@ -2,8 +2,9 @@
 
 - 현재 상태: complete
 - 목표: 후보 3·4 브라우저 MVP 구현.
-- 완료: 독립 HTML 2개 구현, 로컬 HTTP 서버에서 로드, 라이브 브라우저 동작 검증, private GitHub 저장소 업로드.
-- Git: `https://github.com/boss489/travel-puzzle-duo`, main, commit `d5d0124`.
+- 완료: 독립 HTML 2개 구현, 로컬 HTTP 서버에서 로드, 라이브 브라우저 동작 검증, GitHub 공개 저장소 및 Pages 배포.
+- Git: `https://github.com/boss489/travel-puzzle-duo`, main, latest commit `21ad10b`.
+- 배포 URL: `https://boss489.github.io/travel-puzzle-duo/`
   - `artifacts/3-minute-travel-bag.html`
   - `artifacts/moving-warehouse.html`
 - 결정: Q-001 독립 HTML 2개.
